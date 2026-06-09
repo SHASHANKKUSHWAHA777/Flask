@@ -1,0 +1,4 @@
+static is used to display some types of files over the web interface or a website or a webapp etc
+its like a directory of files , which are supposed to be shown or hidden on the website
+https://xxx.xx.xx.0/static/shashank.txt
+and now you can read all the shashank.txt content on the webapp
